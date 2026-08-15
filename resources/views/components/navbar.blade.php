@@ -1,3 +1,5 @@
+{{-- Reusable navigation component for all pages --}}
+
 <nav class="navbar">
 
     <div class="container navbar-container">

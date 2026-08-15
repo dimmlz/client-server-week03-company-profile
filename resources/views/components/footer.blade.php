@@ -1,5 +1,6 @@
-<footer class="footer">
+{{-- Reusable footer component for all pages --}}
 
+<footer class="footer">
 
 <div class="container footer-container">
 
