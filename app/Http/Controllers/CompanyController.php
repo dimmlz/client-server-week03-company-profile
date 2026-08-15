@@ -2,6 +2,12 @@
 
 namespace App\Http\Controllers;
 
+/**
+ * Handles requests for the Aklat Atbp. company profile pages.
+ *
+ * Each method returns the corresponding Blade view
+ * for the requested page.
+ */
 class CompanyController extends Controller
 {
     public function home()
