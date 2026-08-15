@@ -5,7 +5,7 @@
 @section('content')
 
 <!-- Contact Hero -->
-
+{{-- Contact Hero --}}
 <section class="hero">
 
 <div class="container">
@@ -28,7 +28,7 @@
 </section>
 
 <!-- Contact Information -->
-
+{{-- Contact Information --}}
 <section>
 
 <div class="container">
@@ -167,7 +167,7 @@
 </section>
 
 <!-- Contact Form -->
-
+{{-- Contact Form --}}
 <section>
 
 <div class="container">
@@ -255,7 +255,7 @@
 </section>
 
 <!-- Business Hours -->
-
+{{-- Business Hours --}}
 <section>
 
 <div class="container">
@@ -279,7 +279,7 @@
 </section>
 
 <!-- Contact Message -->
-
+{{-- Contact Message --}}
 <section>
 
 <div class="container">
