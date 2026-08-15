@@ -33,7 +33,7 @@
 <!-- =====================================================
      COMPANY HISTORY
      ===================================================== -->
-
+{{-- Company History --}}
 <section class="about-history">
 
 <div class="container about-history-grid">
@@ -80,7 +80,7 @@
 <!-- =====================================================
      MISSION & VISION
      ===================================================== -->
-
+{{-- Mission --}}
 <section class="about-purpose">
 
 <div class="container">
@@ -107,7 +107,7 @@
 
         </article>
 
-
+{{-- Vision --}}
         <article class="purpose-card">
 
             <p class="purpose-label">
@@ -136,7 +136,7 @@
 <!-- =====================================================
      CORE VALUES
      ===================================================== -->
-
+{{-- Core Values --}}
 <section class="about-values">
 
 <div class="container">
@@ -224,7 +224,7 @@
 <!-- =====================================================
      TEAM
      ===================================================== -->
-
+{{-- Team Introduction --}}
 <section id="team" class="about-team aklat-team-section">
 
 <div class="container">
