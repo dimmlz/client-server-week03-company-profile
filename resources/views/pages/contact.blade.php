@@ -190,7 +190,7 @@
                 type="text"
                 id="name"
                 name="name"
-                placeholder="Enter your name"
+                placeholder="e.g. Juan Dela Cruz"
             >
 
         </div>
@@ -206,7 +206,7 @@
                 type="email"
                 id="email"
                 name="email"
-                placeholder="Enter your email"
+                placeholder="e.g. juandelacruz@gmail.com"
             >
 
         </div>
@@ -222,7 +222,7 @@
                 type="text"
                 id="subject"
                 name="subject"
-                placeholder="Enter your subject"
+                placeholder="e.g. Book Inquiry"
             >
 
         </div>
@@ -238,7 +238,7 @@
                 id="message"
                 name="message"
                 rows="6"
-                placeholder="Write your message"
+                placeholder="e.g. I would like to ask if this book is still available."
             ></textarea>
 
         </div>
