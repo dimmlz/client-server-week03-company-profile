@@ -7,7 +7,7 @@
 <!-- =====================================================
      HERO SECTION
      ===================================================== -->
-
+{{-- Hero Banner --}}
 <section class="home-hero">
 
 <div class="container home-hero-container">
@@ -390,7 +390,7 @@
 <!-- =====================================================
      COMPANY INTRODUCTION
      ===================================================== -->
-
+{{-- Company Introduction --}}
 <section class="home-intro">
 
 <div class="container intro-grid">
@@ -456,7 +456,7 @@
 <!-- =====================================================
      FEATURED SERVICES
      ===================================================== -->
-
+{{-- Featured Services --}}
 <section class="home-services">
 
 <div class="container">
@@ -689,7 +689,7 @@
 <!-- =====================================================
      CALL TO ACTION
      ===================================================== -->
-
+{{-- Call to Action --}}
 <section class="home-cta">
 
 <div class="container home-cta-inner">
