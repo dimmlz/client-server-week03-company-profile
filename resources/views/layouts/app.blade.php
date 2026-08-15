@@ -15,14 +15,17 @@
 
 <body>
 
+    {{-- Reusable navigation component --}}
     @include('components.navbar')
 
     <main>
 
+        {{-- Page-specific content is inserted here --}}
         @yield('content')
 
     </main>
 
+    {{-- Reusable footer component --}}
     @include('components.footer')
 
 </body>
